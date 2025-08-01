@@ -4,6 +4,8 @@ A web-based application for simulating and analyzing CPU scheduling algorithms w
 
 ## Overview
 
+![Sample Image](https://github.com/user-attachments/assets/cf3647da-9f6a-470e-b0af-e8374b67328e)
+
 This simulator demonstrates the behavior of various CPU scheduling algorithms used in operating systems. Built with Next.js and TypeScript, it provides an intuitive interface for process configuration and comprehensive performance analysis.
 
 ## Supported Algorithms
