@@ -1,6 +1,6 @@
 import React, { useState, Dispatch, SetStateAction, useEffect } from "react";
 import styled from "styled-components";
-import AlgoSelect, { OptionType, defaultOption } from "./AlgoSelect";
+import AlgoSelect, { OptionType, defaultOption } from "./AlgorithmSelection";
 import Button from "./Button";
 import { invalidInputSwal } from "./swal";
 
