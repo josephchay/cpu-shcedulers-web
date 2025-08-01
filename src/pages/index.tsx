@@ -282,7 +282,7 @@ export default function Home() {
         <HeaderSection>
           <MainTitle>CPU Scheduler Simulator</MainTitle>
           <Subtitle>
-            Visualize and analyze different CPU scheduling algorithms with
+            Visualize and analyze different process scheduling algorithms with
             interactive Gantt charts, detailed performance metrics, and
             real-time process simulation
           </Subtitle>
